@@ -1,0 +1,144 @@
+/* Start section feature */
+
+.feature{
+    padding-bottom: 252px;
+    position: relative;
+    background-image: url(../images/woman.png);
+    background-repeat: no-repeat;
+    background-position: bottom 187px left 0;
+}
+
+.title_feature{
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 1.5;
+    color: #626780;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.text_feature{
+    width: 660px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.67;
+    color: #626780;
+    margin-bottom: 162px;
+}
+
+.feature_list{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 236px;
+}
+
+.feature_item{
+    width: 442px;
+    padding: 60px 51px 0 51px;
+    background: #FFFFFF;
+    box-shadow: 0px 20px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    height: 545px;
+}
+
+.images_feature{
+    margin-bottom: 53px;
+}
+
+.title_images_feature{
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 1;
+    text-align: center;
+    margin-bottom: 22px;
+}
+
+.text_images_feature{
+    line-height: 1.67;
+    text-align: center;
+    color: #626780;
+    margin-bottom: 79px;
+}
+
+.wrapper_button_feature{
+    text-align: center;
+}
+
+.button_feature{
+    background-color:  #9595C9;
+    padding: 16px 56px;
+}
+
+.button_feature_red{
+    background-color:  #F01F35;
+    padding: 16px 56px;
+}
+
+.wrapper_second_title{
+    width: 660px;
+    margin-left: auto;
+    margin-right: 245px;
+    margin-bottom: 104px;
+}
+
+.review_feature{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(238, 77, 71, 0.1);
+    border-radius: 10px;
+    width: 488px;
+    margin-left: auto;
+    margin-right: 245px;
+    padding: 60px 92px 32px 36px;
+    position: relative;
+    background-image: url(../images/circle_arrow.svg);
+    background-repeat: no-repeat;
+    background-position: top 160px right 13px;
+}
+
+.text_review_feature{
+    line-height: 1.67;
+    color: #9D9D9D;
+    margin-bottom: 4px;
+}
+
+.avatar_woman{
+    margin-right: 48px;
+}
+
+.wrapper_review_feature{
+    display: flex;
+    align-items: center;
+}
+
+.name_review{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.67;
+    color: #626780;
+}
+
+.rating_feature{
+    font-size: 16px;
+    line-height: 1.87;
+    color: #9D9D9D;
+}
+
+.list_stars{
+    display: flex;
+}
+
+.item_stars{
+    margin-left: 6px;
+}
+
+.item_stars:first-child{
+    margin-left: 0;
+}
+
+.text_star{
+    font-size: 12px;
+    line-height: 1.8;
+    color: #9D9D9D;
+}
+/* End section feature */

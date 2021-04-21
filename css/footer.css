@@ -1,0 +1,85 @@
+/* Start footer */
+
+.footer {
+    padding-top: 177px;
+    padding-bottom: 36px;
+    position: relative;
+    background-image: url(../images/ellipse_footer.svg);
+    background-repeat: no-repeat;
+}
+
+.lists_footer {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 80px;
+    margin-bottom: 79px;
+}
+
+.links_lists_footer {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #FFFFFF;
+    display: block;
+    margin-bottom: 12px;
+}
+
+.link_footer {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #E6E6E6;
+}
+
+.wrapper_footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer_right{
+    display: flex;
+    align-items: center;
+}
+
+.text_copyright{
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.87;
+    color: #FFFFFF;
+}
+
+.list_icon{
+    display: flex;
+    margin-right: 124px;
+}
+
+.item_icon{
+    margin-left: 30px;
+}
+
+.item_icon:first-child{
+    margin-left: 0;
+}
+
+.logo_text_footer{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 1.18;
+    color: #FFFFFF;
+}
+
+.logo_footer{
+    font-family: Rammetto One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 1.7;
+    color: #FFFFFF;
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.25);
+}
+
+/* End footer */

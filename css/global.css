@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: black;
+    background-image: url(../images/hero.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: 1600px;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.container {
+    width: 1115px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ h1{
+    font-family: DM Serif Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 1;
+    color: #696A86;
+ }
+
+ .button{
+    font-weight: 600;
+    line-height: 1.5;
+    color: white;
+    background-color: #9B9BCA;
+    border-radius: 10px;
+    padding: 16px 66px;
+}
+
+.title{
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 1.5;
+    color: #626780;
+}

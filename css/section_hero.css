@@ -1,0 +1,19 @@
+/* Start section hero */
+
+.hero{
+    margin-bottom: 208px;
+}
+
+.title_hero{
+    margin-bottom: 30px;
+    width: 548px;
+}
+
+.text_hero{
+    line-height: 1.5;
+    color: #696A86;
+    margin-bottom: 30px;
+    width: 752px;
+}
+
+/* End section hero */

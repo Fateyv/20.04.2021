@@ -1,0 +1,84 @@
+/* Start section video */
+
+.title_video_wrapper{
+    width: 550px;
+    height: 200px;
+}
+
+.title_video{
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 1.4;
+    color: #402B2B;
+}
+.wrapper_video{
+    width: 1600px;
+    height: 780px;
+    position: relative;
+    background-color: rgba(19, 21, 26, 0.685);
+}
+
+.images_video{
+    position: absolute;
+}
+
+.woman_leptop{
+    opacity: 0.6;
+}
+
+.dark_wrapper{
+    width: 1600px;
+    height: 136px;
+    position: absolute;
+    background: rgba(56, 63, 79, 0.3);
+    margin-top: 644px;
+}
+
+.play_big{
+    margin-top: 300px;
+    margin-left: 710px;
+}
+
+.volume{
+    margin-top: 36px;
+    margin-left: 1446px;
+}
+
+.eva_repeat_outline{
+    margin-top: 701px;
+    margin-left: 1468px;
+}
+
+.bx_bx_shuffle{
+    margin-top: 701px;
+    margin-left: 1528px;
+}
+
+.line_white{
+    margin-top: 714px;
+    margin-left: 245px;
+}
+
+.line_red{
+    margin-top: 714px;
+    margin-left: 245px;
+}
+
+.play{
+    margin-top: 706px;
+    margin-left: 112px;
+}
+
+.forward{
+    margin-top: 706px;
+    margin-left: 166px;
+}
+
+.back{
+    margin-top: 706px;
+    margin-left: 55px;
+}
+
+/* End section video */
